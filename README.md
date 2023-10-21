@@ -7,7 +7,7 @@ Web Design Student
 I started learning to code in high school while messing around with Tumblr themes, all because I wanted to add an extra picture of Zayn Malik on my blog. I decided to study web design at the University of Central Florida where I learned more in depth HTML and CSS, as well as JavaScript, React, Tailwind, and other frameworks & libraries.
 
 * 🌍  I'm based in Orlando, Florida
-* 🖥️  See my portfolio at [CasiMarie](http://casimarie.me)
+* 🖥️  See my portfolio at [CasiMarie](http://casimarie.com)
 * ✉️  You can contact me at [ca764763@ucf.edu](mailto:ca764763@ucf.edu)
 * 🧠  I'm learning Vue
 * 🤝  I'm open to collaborating on almost anything! I'm willing to learn anything it takes to make sure the project flows smoothly.
